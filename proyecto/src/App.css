@@ -1,0 +1,21 @@
+body
+{
+  height: 100%;
+}
+
+.App
+{
+  display: flex;
+  background-color: red;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: stretch;
+  justify-content: space-around;
+  align-items: stretch;
+}
+a
+{
+  align-items: center;
+  align-content: center;
+  gap: 5rem;
+}
